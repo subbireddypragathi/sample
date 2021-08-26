@@ -1,0 +1,2 @@
+# sample
+THIS IS MY FIRST REPOSITARY
